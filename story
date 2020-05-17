@@ -3,7 +3,7 @@
 <title>Історія</title>
 </head>
 <body>
-<img src="история">
-<img src="История2">
+<img src="история.png">
+<img src="История (2).png">
 </body>
 </html>
